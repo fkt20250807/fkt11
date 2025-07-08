@@ -10,4 +10,4 @@
 
 平台每日推送最新热门影视内容，涵盖无码及中字版本，满足各种观影需求。资源分类清晰，包含剧情、制服、角色扮演等多样题材。无须注册，无广告干扰，保证纯净流畅的观看体验。丰富的热播榜单与网友推荐助力轻松发现优质作品。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250807/fkt11 ）</span>
